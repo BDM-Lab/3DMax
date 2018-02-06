@@ -1,0 +1,7 @@
+Input file: input/GM06990/Ncol/chr22_Ncol.txt
+Convert factor: 0.5
+Learning rate: 1.0
+AVG RMSE: 134.4952036150581
+AVG Spearman correlation IFs vs. Reconstructed Dist: -0.9358657154656739
+AVG Spearman correlation WishDist vs. Reconstructed Dist: 0.9358657154656739
+AVG Pearson correlation WishDist vs. Reconstructed Dist: 0.9077888357210978

@@ -1,0 +1,7 @@
+Input file: input/GM06990/SCN_ICE_normalization/raw_chr11_ICE.txt
+Convert factor: 0.6
+Learning rate: 1.0
+AVG RMSE: 131.9656878874852
+AVG Spearman correlation IFs vs. Reconstructed Dist: -0.8323332247460793
+AVG Spearman correlation WishDist vs. Reconstructed Dist: 0.8323332247460797
+AVG Pearson correlation WishDist vs. Reconstructed Dist: 0.74508352359897

@@ -1,0 +1,7 @@
+Input file: input/GM06990/Y_Tnormalization/chr8.txt
+Convert factor: 0.5
+Learning rate: 1.0
+RMSE: 130.1474232124401
+Spearman correlation IFs vs. Reconstructed Dist: -0.8674690118934987
+Spearman correlation WishDist vs. Reconstructed Dist: 0.867469011893498
+Pearson correlation WishDist vs. Reconstructed Dist: 0.7939675402667299

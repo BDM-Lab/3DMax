@@ -1,0 +1,24 @@
+
+#number of structures will be generated
+NUM = 1
+
+OUTPUT_FOLDER = output/
+
+INPUT_FILE = input/gm06990_hic/NoY_All_interIntraContact_1M_nml.txt
+
+#factor used to convert IF into distance = 1 / (IF^factor)
+CONVERT_FACTOR = 1
+
+CHROMOSOME_LENGTH = 229,241,197,190,179,169,157,145,124,135,133,132,98,89,83,81,79,77,57,62,36,36,153,29
+
+#CONTACT_THRESHOLD = 0.001
+
+#set VERBOSE = true for information during optimization printed out
+VERBOSE = true
+
+#learning rate for the optimization process
+#if the program fails to generate structures, try to reduce this learning rate
+LEARNING_RATE = 0.1
+MAX_ITERATION = 10000
+
+

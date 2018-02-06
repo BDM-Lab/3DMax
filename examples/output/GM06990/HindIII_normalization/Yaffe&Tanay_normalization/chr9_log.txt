@@ -1,0 +1,7 @@
+Input file: input/GM06990/Y_Tnormalization/chr9.txt
+Convert factor: 0.4
+Learning rate: 1.0
+AVG RMSE: 127.79990582339077
+AVG Spearman correlation IFs vs. Reconstructed Dist: -0.8460381257965631
+AVG Spearman correlation WishDist vs. Reconstructed Dist: 0.8460381257965627
+AVG Pearson correlation WishDist vs. Reconstructed Dist: 0.8063052961897869

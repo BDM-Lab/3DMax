@@ -1,0 +1,7 @@
+Input file: input/GM06990/Y_Tnormalization/chr21.txt
+Convert factor: 0.4
+Learning rate: 1.0
+RMSE: 127.09495043421248
+Spearman correlation IFs vs. Reconstructed Dist: -0.8925000077336258
+Spearman correlation WishDist vs. Reconstructed Dist: 0.8925000077336258
+Pearson correlation WishDist vs. Reconstructed Dist: 0.8783787540825636

@@ -1,0 +1,7 @@
+Input file: input/GM06990/Ncol/chr14_Ncol.txt
+Convert factor: 0.4
+Learning rate: 1.0
+RMSE: 130.45374787797468
+Spearman correlation IFs vs. Reconstructed Dist: -0.8965094532508938
+Spearman correlation WishDist vs. Reconstructed Dist: 0.8965094532508937
+Pearson correlation WishDist vs. Reconstructed Dist: 0.8546605980172707

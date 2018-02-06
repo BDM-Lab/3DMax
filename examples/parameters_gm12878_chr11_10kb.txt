@@ -1,0 +1,27 @@
+
+#number of structures will be generated
+NUM = 1
+
+OUTPUT_FOLDER = output/gm12878_hic
+
+INPUT_FILE = input/gm12878_hic/chr11_10kb_gm12878_list_125mb_135mb.txt
+
+
+#factor used to convert IF into distance = 1 / (IF^factor)
+#comment out this parameter will make the program to scan for the best factor in [0.1, 3.0]
+
+CONVERT_FACTOR = 0.5
+
+#CONTACT_THRESHOLD = 0.001
+
+#set VERBOSE = true for information during optimization printed out
+VERBOSE = true
+
+#learning rate for the optimization process
+#if the program fails to generate structures, try to reduce this learning rate
+
+LEARNING_RATE = 1.0
+
+MAX_ITERATION = 2000
+
+

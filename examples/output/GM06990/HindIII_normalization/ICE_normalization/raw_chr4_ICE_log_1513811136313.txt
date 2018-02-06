@@ -1,0 +1,7 @@
+Input file: input/GM06990/SCN_ICE_normalization/raw_chr4_ICE.txt
+Convert factor: 0.6
+Learning rate: 1.0
+RMSE: 146.24743462686547
+Spearman correlation IFs vs. Reconstructed Dist: -0.8726785008072908
+Spearman correlation WishDist vs. Reconstructed Dist: 0.8726785008072887
+Pearson correlation WishDist vs. Reconstructed Dist: 0.7714596818101935
