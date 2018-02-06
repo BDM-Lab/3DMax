@@ -91,4 +91,3 @@ Yes, we explained in out manuscript. For the Java implementation is faster compa
 Yes, we explained in out manuscript. For the Java implementation is faster compared to the MATLAB implementation on all datasets
 
 -----------------------------------------------------------
->>>>>>> first commit 3DMax
