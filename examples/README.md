@@ -11,9 +11,9 @@
 * MAX_ITERATION: maximum number of iterations, the optimization may converge before this number
 
 - Output: there are 4 files	
-* .pdb: contains the model and can be visualized by pyMol or Chimera
-* _log_a_number.txt: contains the settings used to build the model and Spearman's correlation of reconstructed distances and input IFs
-* _log.txt: NUM > 1, the files contains settings and average root means square error (RMSE) and average correlation of Spearman's and Pearson's correlations of separate models
-* _coordinate_mapping.txt: contains the mapping of genomic positions to indices in the model. Notice that indices start from 0, while in pyMol or Chimera, id starts from 1
+* *.pdb: contains the model and can be visualized by pyMol or Chimera
+* *_log_a_number.txt: contains the settings used to build the model and Spearman's correlation of reconstructed distances and input IFs
+* *_log.txt: NUM > 1, the files contains settings and average root means square error (RMSE) and average correlation of Spearman's and Pearson's correlations of separate models
+* *_coordinate_mapping.txt: contains the mapping of genomic positions to indices in the model. Notice that indices start from 0, while in pyMol or Chimera, id starts from 1
 
 - To run the program with different input, settings, just change to a different parameter file: java -jar 3DMax.jar parameters_gm12878_chr11_10kb.txt
