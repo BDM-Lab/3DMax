@@ -23,7 +23,7 @@
 
 **1.	Content of folders:**
 -----------------------------------------------------------	
-* **executable**: latest version can be found in the release tab
+* **executable**: latest version can be downloaded from the release tab
 * examples: contains example data and outputs generated from 3DMax for these datasets 
 * src: 3DMax **Java** and **MATLAB** source codes
 * lib: The dependency libraries used for the Java source code
@@ -40,7 +40,7 @@ The Hi-C  datasets we used can be downloaded from here : http://sysbio.rnet.miss
 **3.	Input matrix file format:**
 -----------------------------------------------------------
 3DMax allows two formats:
-* Tuple Input format(**_preferred_**) : A hi-C contact file, each line contains 3 numbers (separated by a space) of a contact, position_1 position_2 interaction_frequencies
+* Tuple Input format(_preferred_) : A hi-C contact file, each line contains 3 numbers (separated by a space) of a contact, position_1 position_2 interaction_frequencies
 * Square Matrix Input format: The square matrix is a comma seperated N by N intra-chromosomal contact matrix derived from Hi-C data, where N is the number of equal-sized regions of a chromosome.
 
 
