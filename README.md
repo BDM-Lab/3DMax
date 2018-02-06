@@ -92,6 +92,6 @@ No, their is no significant difference is the models from both.
 
 **8.3. Can the MATLAB implementation perform genome structure prediction?**
 
-No,the MATLAB implementation can only model chromosome structures.However, the Java implementation can perform both chromosome and genome structure prediction.
+No, the MATLAB implementation can only model chromosome structures.However, the Java implementation can perform both chromosome and genome structure prediction.
 
 -----------------------------------------------------------
