@@ -7,7 +7,7 @@
 	+ CONVERT_FACTOR: the factor used to convert IF to distance, distance = 1/(IF^factor), when not specified, the program will search for it in range [0.1, 2.0], step = 0.1
 	+ CHROMOSOME_LENGTH: remove it if there is only one chromosome. If there are multiple chromosomes in the input data, specify number of points (or beads) of chromosomes in the input data, separated by a comma. These numbers must be consistent with the input data.	
 	+ VERBOSE: true or false to output gradient values during optmization
-	+ LEARNING_RATE: learning rate for the optimization, if optimization fails, try to reduce this value
+	+ LEARNING_RATE: learning rate for the optimization.
 	+ MAX_ITERATION: maximum number of iterations, the optimization may converge before this number
 
 - Output: there are 4 files	
