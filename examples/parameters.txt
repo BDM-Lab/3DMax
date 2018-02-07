@@ -2,7 +2,7 @@
 #number of structures will be generated
 NUM = 1
 
-OUTPUT_FOLDER = output/
+OUTPUT_FOLDER = output/gm06990_hic
 
 INPUT_FILE = input/gm06990_hic/IFList_Chr_19_1mb.txt
 
@@ -17,7 +17,7 @@ VERBOSE = true
 
 #learning rate for the optimization process
 #if the program fails to generate structures, try to reduce this learning rate
-LEARNING_RATE = 0.1
+LEARNING_RATE = 1
 MAX_ITERATION = 10000
 
 

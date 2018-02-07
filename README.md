@@ -56,13 +56,15 @@ To run the tool, open command line interface and type: 	 **java -jar 3DMax.jar p
 	+ CONVERT_FACTOR: the factor used to convert IF to distance, distance = 1/(IF^factor), when not specified, the program will search for it in range [0.1, 2.0], step = 0.1
 	+ CHROMOSOME_LENGTH: remove it if there is only one chromosome. If there are multiple chromosomes in the input data, specify number of points (or beads) of chromosomes in the input data, separated by a comma. These numbers must be consistent with the input data.	
 	+ VERBOSE: true or false to output gradient values during optmization
-	+ LEARNING_RATE: learning rate for the optimization.
+	+ LEARNING_RATE: learning rate for the optimization. Increase the learning rate to reduce running time. [Max recommended = 1]
 	+ MAX_ITERATION: maximum number of iterations, the optimization may converge before this number
 
 See in /examples/ for sample files
 
 **4.2. MATLAB:**<br />
 Instructions on how to run the MATLAB source code is given here **_/src/MATLAB/_**
+
+_A short video demonstration on how to use the Java and MATLAB versions can be found here: https://youtu.be/ehQUFWoHwfo_
 
 **5.	Output**
 -----------------------------------------------------------

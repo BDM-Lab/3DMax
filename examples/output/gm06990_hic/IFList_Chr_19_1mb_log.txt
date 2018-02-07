@@ -1,0 +1,7 @@
+Input file: input/gm06990_hic/IFList_Chr_19_1mb.txt
+Convert factor: 0.6
+Learning rate: 1.0
+AVG RMSE: 145.4933726442277
+AVG Spearman correlation IFs vs. Reconstructed Dist: -0.8591911815220046
+AVG Spearman correlation WishDist vs. Reconstructed Dist: 0.8591911815220046
+AVG Pearson correlation WishDist vs. Reconstructed Dist: 0.7996683056291879

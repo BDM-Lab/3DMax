@@ -1,0 +1,8 @@
+Input file: input/gm06990_hic/NoY_All_interIntraContact_1M_nml.txt
+Convert factor: 0.1
+Learning rate: 1.0
+Chromosome lengths:229 470 667 857 1036 1205 1362 1507 1631 1766 1899 2031 2129 2218 2301 2382 2461 2538 2595 2657 2693 2729 2882 2911 
+AVG RMSE: 95.09734978687787
+AVG Spearman correlation IFs vs. Reconstructed Dist: -0.05234327739930919
+AVG Spearman correlation WishDist vs. Reconstructed Dist: 0.05234327739930919
+AVG Pearson correlation WishDist vs. Reconstructed Dist: 0.058246237433751104

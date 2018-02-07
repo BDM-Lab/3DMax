@@ -1,7 +1,7 @@
 Input file: input/gm12878_hic/chr11_10kb_gm12878_list_125mb_135mb.txt
 Convert factor: 0.5
 Learning rate: 1.0
-AVG RMSE: 128.72668199942714
-AVG Spearman correlation IFs vs. Reconstructed Dist: -0.7794437492476646
-AVG Spearman correlation WishDist vs. Reconstructed Dist: 0.7794437492476646
-AVG Pearson correlation WishDist vs. Reconstructed Dist: 0.7368623536229151
+AVG RMSE: 128.72131771586345
+AVG Spearman correlation IFs vs. Reconstructed Dist: -0.7795717610718694
+AVG Spearman correlation WishDist vs. Reconstructed Dist: 0.7795717610718694
+AVG Pearson correlation WishDist vs. Reconstructed Dist: 0.7372260191128387

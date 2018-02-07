@@ -19,4 +19,5 @@ MATLAB Code
 + *_pearsoncorr.txt:  contains the Pearson correlation of the best structure for each conversion factor (alpha)
 + *_spearmancorr.txt: contains the Spearman correlation of the best structure for each conversion factor (alpha)
 + *_rmsd.txt: contains the rmsd of the best structure for each conversion factor (alpha)
++ *_readme.txt: contains the name of the best/representative structure for the chromosome.
 + *_coordinate_mapping.txt: contains the mapping of genomic positions to indices in the model. Notice that indices start from 0, while in pyMol or Chimera, id starts from 1
