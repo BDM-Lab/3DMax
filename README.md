@@ -64,7 +64,7 @@ See in /examples/ for sample files
 **4.2. MATLAB:**<br />
 Instructions on how to run the MATLAB source code is given here **_/src/MATLAB/_**
 
-**4.3.** _A short video demonstration on how to use the Java and MATLAB versions can be found here: https://youtu.be/ehQUFWoHwfo_
+**4.3.** _A short video demonstration of how to use the Java and MATLAB versions can be found here: https://youtu.be/ehQUFWoHwfo_
 
 **5.	Output**
 -----------------------------------------------------------
