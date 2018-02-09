@@ -1,0 +1,4 @@
+Input file: C:\Users\Tosin\Desktop\output\NoY_All_interIntraContact_1M_nml\NoY_All_interIntraContact_1M_nml.txt
+Convert factor: 0.5
+Learning rate: 1.0
+Chromosome lengths:229 1386 4837 12805 28549 56533 102583 174032 279844 430749 639376 920385 1290565 1768923 2376767 3137787 4078134 5226497 6614160 8275064 10245843 12565860 15277360 18425499 
