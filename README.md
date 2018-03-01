@@ -82,7 +82,7 @@ The executable software and the source code of 3DMax is distributed free of char
 
 **7. Citations**
 -----------------------------------------------------------
-
+Oluwadare, Oluwatosin, Yuxiang Zhang, and Jianlin Cheng. "A maximum likelihood algorithm for reconstructing 3D structures of human chromosomes from chromosomal contact data." BMC genomics 19.1 (2018): 161.
 
 **8. Common questions**
 -----------------------------------------------------------
